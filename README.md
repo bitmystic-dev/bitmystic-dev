@@ -1,4 +1,4 @@
-Hey, I am BitMystic {Sai Pranav} A 14 year old coder from India.
+Hey, I am BitMystic {Sai Pranav} A 14 year old (as of june 2024) coder and a cybersecurity enthusiast from India.
 
 Wanna Collab???
 
