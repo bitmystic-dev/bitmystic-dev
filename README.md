@@ -4,4 +4,4 @@ Wanna Collab???
 
 Email me at: bitmystic033@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitmystic-dev)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bitmystic-dev)](https://github.com/stats-organization/github-stats-extended)
